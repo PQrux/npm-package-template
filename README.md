@@ -4,7 +4,7 @@ Tired of configuring Typescript, Tests, Eslint and CI for your projects? Fork th
 You only have to follow a few steps to get it done:
 
 ## 1. Fork this repository
-access [https://github.com/PQrux/github-registry-nodejs-package/fork](https://github.com/PQrux/github-registry-nodejs-package/fork) to fork this repository.
+access [https://github.com/PQrux/npm-package-template/generate](https://github.com/PQrux/npm-package-template/generate) to copy this repository.
 
 ## 2. Clone 
 ```bash
